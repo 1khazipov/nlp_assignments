@@ -1,0 +1,299 @@
+Number of parameters: 
+Embeddings 2309400
+ConvNet 228352
+Classifier 7740
+transitions:0 3600
+Total number of parameters equal 2549092
+Epoch 0
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 1312 phrases; correct: 196.
+
+precision:  14.94%; recall:  7.73%; FB1:  10.19
+
+
+Epoch 1
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 842 phrases; correct: 399.
+
+precision:  47.39%; recall:  15.74%; FB1:  23.63
+
+
+Epoch 2
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 1419 phrases; correct: 741.
+
+precision:  52.22%; recall:  29.23%; FB1:  37.48
+
+
+Epoch 3
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 1423 phrases; correct: 841.
+
+precision:  59.10%; recall:  33.18%; FB1:  42.50
+
+
+Epoch 4
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 1574 phrases; correct: 961.
+
+precision:  61.05%; recall:  37.91%; FB1:  46.78
+
+
+Epoch 5
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 1887 phrases; correct: 1086.
+
+precision:  57.55%; recall:  42.84%; FB1:  49.12
+
+
+Epoch 6
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 1987 phrases; correct: 1124.
+
+precision:  56.57%; recall:  44.34%; FB1:  49.71
+
+
+Epoch 7
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2104 phrases; correct: 1161.
+
+precision:  55.18%; recall:  45.80%; FB1:  50.05
+
+
+Epoch 8
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2087 phrases; correct: 1174.
+
+precision:  56.25%; recall:  46.31%; FB1:  50.80
+
+
+Epoch 9
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2038 phrases; correct: 1171.
+
+precision:  57.46%; recall:  46.19%; FB1:  51.21
+
+
+Epoch 10
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2065 phrases; correct: 1176.
+
+precision:  56.95%; recall:  46.39%; FB1:  51.13
+
+
+Epoch 11
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2128 phrases; correct: 1193.
+
+precision:  56.06%; recall:  47.06%; FB1:  51.17
+
+
+Epoch 12
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2154 phrases; correct: 1203.
+
+precision:  55.85%; recall:  47.46%; FB1:  51.31
+
+
+Epoch 13
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2166 phrases; correct: 1207.
+
+precision:  55.72%; recall:  47.61%; FB1:  51.35
+
+
+Epoch 14
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2148 phrases; correct: 1208.
+
+precision:  56.24%; recall:  47.65%; FB1:  51.59
+
+
+Eval on train:
+processed 90787 tokens with 21034 phrases; found: 20549 phrases; correct: 17348.
+
+precision:  84.42%; recall:  82.48%; FB1:  83.44
+
+	AGE: precision:  89.18%; recall:  92.10%; F1:  90.62 536
+
+	AWARD: precision:  57.47%; recall:  35.46%; F1:  43.86 87
+
+	CITY: precision:  72.62%; recall:  91.01%; F1:  80.78 1227
+
+	COUNTRY: precision:  90.82%; recall:  95.17%; F1:  92.94 2103
+
+	CRIME: precision:  44.90%; recall:  30.34%; F1:  36.21 98
+
+	DATE: precision:  89.82%; recall:  89.15%; F1:  89.48 2131
+
+	DISEASE: precision:  69.23%; recall:  6.38%; F1:  11.69 13
+
+	DISTRICT: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	EVENT: precision:  82.05%; recall:  83.19%; F1:  82.62 2317
+
+	FACILITY: precision:  41.09%; recall:  41.92%; F1:  41.50 202
+
+	FAMILY: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	IDEOLOGY: precision:  66.27%; recall:  24.23%; F1:  35.48 83
+
+	LANGUAGE: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	LAW: precision:  58.21%; recall:  31.71%; F1:  41.05 67
+
+	LOCATION: precision:  69.57%; recall:  7.62%; F1:  13.73 23
+
+	MONEY: precision:  80.00%; recall:  87.80%; F1:  83.72 135
+
+	NATIONALITY: precision:  69.80%; recall:  54.46%; F1:  61.18 245
+
+	NUMBER: precision:  81.49%; recall:  83.72%; F1:  82.59 940
+
+	ORDINAL: precision:  80.80%; recall:  78.64%; F1:  79.71 474
+
+	ORGANIZATION: precision:  83.44%; recall:  83.22%; F1:  83.33 2247
+
+	PENALTY: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	PERCENT: precision:  77.78%; recall:  12.73%; F1:  21.87 9
+
+	PERSON: precision:  92.33%; recall:  95.08%; F1:  93.69 4226
+
+	PRODUCT: precision:  79.25%; recall:  22.95%; F1:  35.59 53
+
+	PROFESSION: precision:  86.18%; recall:  91.14%; F1:  88.59 2851
+
+	RELIGION: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	STATE_OR_PROVINCE: precision:  54.94%; recall:  59.81%; F1:  57.27 344
+
+	TIME: precision:  46.55%; recall:  31.40%; F1:  37.50 58
+
+	WORK_OF_ART: precision:  38.75%; recall:  19.87%; F1:  26.27 80
+
+
+Eval on valid:
+processed 11830 tokens with 2535 phrases; found: 2148 phrases; correct: 1208.
+
+precision:  56.24%; recall:  47.65%; FB1:  51.59
+
+	AGE: precision:  85.14%; recall:  88.73%; F1:  86.90 74
+
+	AWARD: precision:  0.00%; recall:  0.00%; F1:  0.00 2
+
+	CITY: precision:  71.59%; recall:  44.68%; F1:  55.02 88
+
+	COUNTRY: precision:  84.88%; recall:  76.65%; F1:  80.56 205
+
+	CRIME: precision:  33.33%; recall:  11.76%; F1:  17.39 6
+
+	DATE: precision:  74.52%; recall:  74.81%; F1:  74.67 263
+
+	DISEASE: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	DISTRICT: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	EVENT: precision:  45.00%; recall:  39.60%; F1:  42.13 220
+
+	FACILITY: precision:  0.00%; recall:  0.00%; F1:  0.00 7
+
+	FAMILY: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	IDEOLOGY: precision:  66.67%; recall:  17.39%; F1:  27.59 6
+
+	LANGUAGE: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	LAW: precision:  100.00%; recall:  6.67%; F1:  12.50 1
+
+	LOCATION: precision:  0.00%; recall:  0.00%; F1:  0.00 1
+
+	MONEY: precision:  71.43%; recall:  66.67%; F1:  68.97 28
+
+	NATIONALITY: precision:  32.14%; recall:  18.00%; F1:  23.08 28
+
+	NUMBER: precision:  61.18%; recall:  57.14%; F1:  59.09 85
+
+	ORDINAL: precision:  50.00%; recall:  58.70%; F1:  54.00 54
+
+	ORGANIZATION: precision:  30.96%; recall:  40.32%; F1:  35.03 323
+
+	PENALTY: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	PERCENT: precision:  0.00%; recall:  0.00%; F1:  0.00 1
+
+	PERSON: precision:  57.38%; recall:  39.02%; F1:  46.45 359
+
+	PRODUCT: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	PROFESSION: precision:  47.96%; recall:  54.15%; F1:  50.87 367
+
+	RELIGION: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	STATE_OR_PROVINCE: precision:  55.17%; recall:  29.09%; F1:  38.10 29
+
+	TIME: precision:  0.00%; recall:  0.00%; F1:  0.00 1
+
+	WORK_OF_ART: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+
+Eval on test:
+processed 10565 tokens with 2390 phrases; found: 2048 phrases; correct: 1212.
+
+precision:  59.18%; recall:  50.71%; FB1:  54.62
+
+	AGE: precision:  77.78%; recall:  86.15%; F1:  81.75 72
+
+	AWARD: precision:  0.00%; recall:  0.00%; F1:  0.00 1
+
+	CITY: precision:  56.73%; recall:  47.20%; F1:  51.53 104
+
+	COUNTRY: precision:  85.04%; recall:  73.98%; F1:  79.13 234
+
+	CRIME: precision:  50.00%; recall:  11.11%; F1:  18.18 2
+
+	DATE: precision:  73.96%; recall:  75.38%; F1:  74.67 265
+
+	DISEASE: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	DISTRICT: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	EVENT: precision:  42.57%; recall:  36.13%; F1:  39.09 202
+
+	FACILITY: precision:  0.00%; recall:  0.00%; F1:  0.00 5
+
+	IDEOLOGY: precision:  50.00%; recall:  6.67%; F1:  11.76 2
+
+	LANGUAGE: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	LAW: precision:  0.00%; recall:  0.00%; F1:  0.00 1
+
+	LOCATION: precision:  100.00%; recall:  4.35%; F1:  8.33 1
+
+	MONEY: precision:  44.44%; recall:  100.00%; F1:  61.54 9
+
+	NATIONALITY: precision:  31.03%; recall:  20.93%; F1:  25.00 29
+
+	NUMBER: precision:  60.71%; recall:  68.00%; F1:  64.15 112
+
+	ORDINAL: precision:  75.38%; recall:  61.25%; F1:  67.59 65
+
+	ORGANIZATION: precision:  39.13%; recall:  45.19%; F1:  41.94 276
+
+	PENALTY: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	PERCENT: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	PERSON: precision:  70.31%; recall:  47.58%; F1:  56.75 293
+
+	PRODUCT: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	PROFESSION: precision:  47.49%; recall:  60.07%; F1:  53.05 339
+
+	RELIGION: precision:  0.00%; recall:  0.00%; F1:  0.00 0
+
+	STATE_OR_PROVINCE: precision:  30.43%; recall:  17.50%; F1:  22.22 23
+
+	TIME: precision:  0.00%; recall:  0.00%; F1:  0.00 4
+
+	WORK_OF_ART: precision:  11.11%; recall:  3.57%; F1:  5.41 9
